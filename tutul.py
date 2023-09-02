@@ -221,7 +221,7 @@ os.system('clear')
 print(logo)
 os.system('espeak -a 300 " Your,   Real,  Name,"')
 uname =input('\033[1;97m[\033[1;92m•\033[1;97m]\033[1;92m WHAT IS YOUR NAME \033[1;91m: \33[1;32m')
-os.system('espeak -a 300 " Welcome,   to,  RJ,  King,  Tools"')
+os.system('espeak -a 300 " Welcome,   to,  RJ, Tools"')
 pass
  
  
